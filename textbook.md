@@ -51,3 +51,5 @@ Kapitel 6: Mikroföroreningar. Detta kapitel saknas.
 <a href="https://omvatten.github.io/kapitel/Bilaga_D_dataanalys.pdf" target="_blank">Bilaga D: Presentera och analysera data</a>
 
 <a href="https://omvatten.github.io/kapitel/Bilaga_E_elektrokemi.pdf" target="_blank">Bilaga E: Elektrokemi och korrosion</a>
+
+# <a href="https://omvatten.github.io">Tillbaka till OM VATTEN</a>
