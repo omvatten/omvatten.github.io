@@ -10,7 +10,7 @@ For example, by degrading pollutants, producing energy carriers, or ensuring a s
 
 Check out my <a href="https://scholar.google.com/citations?hl=sv&user=BG6O3hYAAAAJ" target="_blank">scientific publications.</a>
 
-<img src="images/Oskar.jpeg"/>
+<img src="./images/Oskar.gif"/>
 
 Oskar Modin
 
