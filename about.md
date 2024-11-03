@@ -10,5 +10,5 @@ permalink: /about
 
 lite text
 
-# <a href="https://omvatten.github.io/README.md">OM VATTEN</a>
+# <a href="https://omvatten.github.io">OM VATTEN</a>
 
