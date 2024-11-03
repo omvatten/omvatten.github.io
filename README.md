@@ -12,7 +12,7 @@ askdfhöadsfadsfkhaöjh
 
 asdöhfaöjdfhajksdf
 
-# <a href="https://omvatten.github.io/about>About link</a>
+# <a href="https://omvatten.github.io/about">About link</a>
 
 asdfhkjlhasdkjfha
 aljdkfhdkj
