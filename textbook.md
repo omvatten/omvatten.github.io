@@ -24,7 +24,7 @@ Vi beskriver hur dricksvatten produceras och hur använt vatten renas. I slutet 
 
 <a href="https://omvatten.github.io/kapitel/4_pH.pdf" target="_blank">Kapitel 4: pH, alkalinitet, karbonatsystemet och hårdhet</a>
 
-<a href="https://omvatten.github.io/kapitel/5_Biologi.pdf" target="_blank">Kapitel 5: Näringsämnen</a>
+<a href="https://omvatten.github.io/kapitel/5_Biologi.pdf" target="_blank">Kapitel 5: Biologisk vattenkvalitet</a>
 
 Kapitel 6: Mikroföroreningar. Detta kapitel saknas.
 
