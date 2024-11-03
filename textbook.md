@@ -1,4 +1,4 @@
-# Om Vatten textbook
+# Om Vatten textbok
 Vatten är nödvändigt för allt liv på jorden. Vi människor använder vatten på många olika sätt. 
 Vi är beroende av tillgång till dricksvatten av god kvalitet för att överleva och hålla oss friska. 
 Vi använder vatten för att tvätta oss själva, våra kläder, mat och andra tillhörigheter. 
@@ -16,9 +16,28 @@ Vi beskriver hur dricksvatten produceras och hur använt vatten renas. I slutet 
 
 # Länkar till kapitel:
 
-<a href="https://omvatten.github.io/kapitel/1_Översikt.pdf" target="_blank">Kapitel 1 - Översikt</a>
+<a href="https://omvatten.github.io/kapitel/1_Översikt.pdf" target="_blank">Kapitel 1: Vattenkvalitetsparametrar - En översikt</a>
 
-<a href="https://omvatten.github.io/kapitel/2_Syre.pdf" target="_blank">Kapitel 2 - Syre och syretärande ämnen</a>
+<a href="https://omvatten.github.io/kapitel/2_Syre.pdf" target="_blank">Kapitel 2: Syre och syretärande ämnen</a>
 
-<a href="https://omvatten.github.io/kapitel/3_Näringsämnen.pdf" target="_blank">Kapitel 3 - Näringsämnen</a>
+<a href="https://omvatten.github.io/kapitel/3_Näringsämnen.pdf" target="_blank">Kapitel 3: Näringsämnen</a>
 
+<a href="https://omvatten.github.io/kapitel/4_pH.pdf" target="_blank">Kapitel 4: pH, alkalinitet, karbonatsystemet och hårdhet</a>
+
+<a href="https://omvatten.github.io/kapitel/5_Biologi.pdf" target="_blank">Kapitel 5: Näringsämnen</a>
+
+Kapitel 6: Mikroföroreningar. Detta kapitel saknas.
+
+<a href="https://omvatten.github.io/kapitel/7_Vattnetskretslopp.pdf" target="_blank">Kapitel 7: Vattnets kretslopp och VA-teknik</a>
+
+<a href="https://omvatten.github.io/kapitel/8_Massbalanser.pdf" target="_blank">Kapitel 8: Flödes- och massbalanser</a>
+
+<a href="https://omvatten.github.io/kapitel/9_Kinetik.pdf" target="_blank">Kapitel 9: Kinetik</a>
+
+<a href="https://omvatten.github.io/kapitel/10_Tankreaktorer.pdf" target="_blank">Kapitel 10: Tankreaktorer</a>
+
+<a href="https://omvatten.github.io/kapitel/11_Dricksvattenberedning.pdf" target="_blank">Kapitel 11: Dricksvattenberedning</a>
+
+<a href="https://omvatten.github.io/kapitel/12_Avloppsvattenrening.pdf" target="_blank">Kapitel 12: Avloppsvattenrening</a>
+
+<a href="https://omvatten.github.io/kapitel/13_Flöden.pdf" target="_blank">Kapitel 13: Reningsprocesser och flödesförhållanden</a>
