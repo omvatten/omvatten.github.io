@@ -14,7 +14,7 @@ Vi beskriver vad flera parametrar betyder och hur de mäts.
 I andra delen (kapitel 7-13) går vi igenom flera av de tekniska processer som används för att förändra och förbättra vattnets kvalitet. 
 Vi beskriver hur dricksvatten produceras och hur använt vatten renas. I slutet av flera av kapitlen finns det övningsuppgifter.
 
-# Länkar till kapitel:
+# Länkar till kapitel
 
 <a href="https://omvatten.github.io/kapitel/1_Översikt.pdf" target="_blank">Kapitel 1: Vattenkvalitetsparametrar - En översikt</a>
 
