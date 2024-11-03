@@ -17,12 +17,11 @@ Check out my <a href="https://scholar.google.com/citations?hl=sv&user=BG6O3hYAAA
 
 # <a href="https://omvatten.github.io/textbook">Textbook in Swedish</a>
 The textbook Om Vatten is an introduction to water quality and water technology. 
-It is written in Swedish and used as course literature in some of my courses.
-
+It is written in Swedish and used as course literature in some of my courses.  
 <a href="https://omvatten.github.io/textbook">Go to textbook</a>
 
 # Code
-Code that I have developed for research and teaching purposes are available on my github page.
+Code that I have developed for research and teaching purposes are available on my github page. Here are links:
 
 ## <a href="https://github.com/omvatten/qdiv">qdiv</a>
 This is a python package for analyzing results from rRNA gene amplicon sequencing or similar data.
@@ -33,8 +32,8 @@ This is a python package for simulating the performance of biological reactors. 
 
 ## <a href="https://github.com/omvatten/pHICsim">pHICsim</a>
 This is a streamlit app for calculating pH and inorganic carbon concentration in water and aquaculture systems. 
-The website on the streamlit cloud is available <a href="https://omvatten-phicsim-phicsim-66n9yv.streamlitapp.com">here.</a>.
+The website on the streamlit cloud is available <a href="https://omvatten-phicsim-phicsim-66n9yv.streamlitapp.com">here.</a>
 
 ## <a href="https://github.com/omvatten/processbanken">processbanken</a>
 This is a streamlit app developed for a course for process engineers at wastewater treatment plants (*Processbänken*). It was used for analyzing data submitted by the participants.
-The website on the streamlit cloud is available <a href="https://omvatten-processbanken-processbanken-1ew0v8.streamlitapp.com">here.</a>.
+The website on the streamlit cloud is available <a href="https://omvatten-processbanken-processbanken-1ew0v8.streamlitapp.com">here.</a>
