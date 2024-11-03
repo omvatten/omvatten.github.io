@@ -41,3 +41,13 @@ Kapitel 6: Mikroföroreningar. Detta kapitel saknas.
 <a href="https://omvatten.github.io/kapitel/12_Avloppsvattenrening.pdf" target="_blank">Kapitel 12: Avloppsvattenrening</a>
 
 <a href="https://omvatten.github.io/kapitel/13_Flöden.pdf" target="_blank">Kapitel 13: Reningsprocesser och flödesförhållanden</a>
+
+<a href="https://omvatten.github.io/kapitel/Bilaga_A_vatten.pdf" target="_blank">Bilaga A: Vatten</a>
+
+<a href="https://omvatten.github.io/kapitel/Bilaga_B_redox.pdf" target="_blank">Bilaga B: Redoxreaktioner</a>
+
+<a href="https://omvatten.github.io/kapitel/Bilaga_C_tankserie.pdf" target="_blank">Bilaga C: Tankseriemodellen</a>
+
+<a href="https://omvatten.github.io/kapitel/Bilaga_D_dataanalys.pdf" target="_blank">Bilaga D: Presentera och analysera data</a>
+
+<a href="https://omvatten.github.io/kapitel/Bilaga_E_elektrokemi.pdf" target="_blank">Bilaga E: Elektrokemi och korrosion</a>
