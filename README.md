@@ -37,4 +37,4 @@ The website on the streamlit cloud is available <a href="https://omvatten-phicsi
 
 ## <a href="https://github.com/omvatten/processbanken">processbanken</a>
 This is a streamlit app developed for a course for process engineers at wastewater treatment plants (*Processbänken*). It was used for analyzing data submitted by the participants.
-The website on the streamlit cloud is available <a href="https://github.com/omvatten/processbanken">here.</a>.
+The website on the streamlit cloud is available <a href="https://omvatten-processbanken-processbanken-1ew0v8.streamlitapp.com">here.</a>.
