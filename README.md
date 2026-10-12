@@ -41,9 +41,9 @@ I develop open-source software for microbial ecology, environmental biotechnolog
 ## [qdiv](https://github.com/omvatten/qdiv)
 A Python package for analyzing microbial community data from amplicon sequencing, metagenomics, and related methods.
 This package is activately maintained and we have implemented several new methods for ecological analyses. See the following papers:
-- [Modin 2026](https://doi.org/10.21105/joss.10089)
-- [Modin et al. 2020](https://doi.org/10.1186/s40168-020-00909-7)
-- [Modin and Persson 2026](https://doi.org/10.64898/2026.10.07.757245)
+- [Modin 2026, qdiv: A Python package for microbial ecology analysis using the Hill number framework](https://doi.org/10.21105/joss.10089)
+- [Modin and Persson 2026, A unified framework reveals how evolutionary scale and abundance weighting shape phylogenetic community structure](https://doi.org/10.64898/2026.10.07.757245)
+- [Modin et al. 2020, Hill-based dissimilarity indices and null models for analysis of microbial community assembly](https://doi.org/10.1186/s40168-020-00909-7)
 
 ## [pHICsim](https://github.com/omvatten/pHICsim)
 This is a streamlit app for calculating pH and inorganic carbon concentration in water and aquaculture systems. 
@@ -56,8 +56,8 @@ The package was originally developed for teaching purposes, but is no longer act
 
 # Teaching
 
-[Om Vatten](https://omvatten.github.io/textbook) textbook in Swedish.
-The textbook is an introduction to water quality and water technology. 
-It is written in Swedish and used as course literature in some of my courses.  
+[Om Vatten](https://omvatten.github.io/textbook) is a textbook written in Swedish.
+It is an introduction to water quality and water technology. 
+It is used as course literature in some of my courses.  
 
-Example datasets used in the textbook Om Vatten and in Python exercises are available [here](https://omvatten.github.io/datasets).
+Example datasets used in the Python exercises of Bilaga D in Om Vatten are available [here](https://omvatten.github.io/datasets).
