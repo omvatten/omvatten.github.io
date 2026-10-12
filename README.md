@@ -45,13 +45,13 @@ This package is activately maintained and we have implemented several new method
 - [Modin et al. 2020](https://doi.org/10.1186/s40168-020-00909-7)
 - [Modin and Persson 2026](https://doi.org/10.64898/2026.10.07.757245)
 
-## [biops](https://github.com/omvatten/biops)
-This is a python package for simulating the performance of biological reactors. For example, activated sludge and biofilm reactors used for wastewater treatment.
-We used it in a course for while, but not any longer, so I have not maintained this package for a while.
-
 ## [pHICsim](https://github.com/omvatten/pHICsim)
 This is a streamlit app for calculating pH and inorganic carbon concentration in water and aquaculture systems. 
 The website on the streamlit cloud is available [here](https://omvatten-phicsim-phicsim-66n9yv.streamlitapp.com).
+
+## [biops](https://github.com/omvatten/biops)
+This is a python package for simulating the performance of biological reactors. For example, activated sludge and biofilm reactors used for wastewater treatment.
+The package was originally developed for teaching purposes, but is no longer actively maintained.
 
 
 # Teaching
