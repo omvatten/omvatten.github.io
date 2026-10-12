@@ -1,13 +1,12 @@
 # OM VATTEN
 **Om Vatten** is Swedish for **About Water**.
 
-Water is essential for life, but water systems are also ecosystems populated by vast and diverse microbial communities. 
-These microorganisms drive key processes in wastewater treatment, drinking water production, nutrient cycling, pollutant degradation, resource recovery, and food production.
+Water is essential for life, but water systems are also ecosystems populated by diverse microbial communities. 
+These microorganisms drive key processes in wastewater treatment, drinking water production, nutrient cycling, pollutant degradation, resource recovery, and food production, as well as biocorrosion of infrastructure.
 
-My research focuses on microbial ecology in engineered water systems. 
-I am interested in how microbial communities assemble, evolve, and function, and how microbial interactions shape the performance of environmental biotechnologies. 
-By combining microbial ecology, environmental engineering, and data science, my work aims to improve our understanding and management of water systems and the built environment. 
-Ultimately, I want to use ecological principles to design and optimize engineered systems that harness microbial communities for water treatment, resource recovery, and environmental monitoring.
+My research focuses on microbial ecology in engineered systems. 
+I am interested in how microbial communities assemble, evolve, and function, and how microbial interactions shape the performance of technologies. 
+By combining microbial ecology and environmental engineering, I want to improve our understanding and management of water systems and the built environment. 
 
 This website contains information about my research, teaching, scientific publications, software tools, and the Swedish textbook **Om Vatten**.
 
@@ -18,20 +17,13 @@ This website contains information about my research, teaching, scientific public
 
 # Research
 
-My research lies at the intersection of ecology, environmental engineering, and data science.
+My research lies at the intersection of ecology, environmental engineering, and data science. 
 Check out my [scientific publications](https://scholar.google.com/citations?hl=sv&user=BG6O3hYAAAAJ).
-
-## Ecology (especially microbial)
 
 Topics of interest include:
 - Community assembly and ecological theory
 - Biodiversity and diversity metrics
 - Virus-host interactions
-- Temporal dynamics of microbial communities
-
-## Environmental biotechnology
-
-Topics of interest include:
 - Bioelectrochemical systems
 - Wastewater treatment
 - Anaerobic digestion
@@ -44,7 +36,7 @@ Topics of interest include:
 I develop open-source software for microbial ecology, environmental biotechnology, and education.
 
 ## <a href="https://github.com/omvatten/qdiv">qdiv</a>
-A Python package for analyzing microbial community data from amplicon sequencing and related methods.
+A Python package for analyzing microbial community data from amplicon sequencing, metagenomics, and related methods.
 See this <a href="https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00909-7">paper.</a>
 
 ## <a href="https://github.com/omvatten/biops">biops</a>
@@ -61,3 +53,7 @@ The website on the streamlit cloud is available <a href="https://omvatten-phicsi
 The textbook Om Vatten is an introduction to water quality and water technology. 
 It is written in Swedish and used as course literature in some of my courses.  
 <a href="https://omvatten.github.io/textbook">Go to textbook</a>
+
+Example datasets used in the textbook Om Vatten and in Python exercises are available here:
+
+./datasets/
