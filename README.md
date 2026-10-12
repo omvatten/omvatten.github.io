@@ -49,10 +49,9 @@ The website on the streamlit cloud is available <a href="https://omvatten-phicsi
 
 # Teaching
 
-# <a href="https://omvatten.github.io/textbook">Om Vatten textbook in Swedish</a>
+<a href="https://omvatten.github.io/textbook">Om Vatten textbook in Swedish</a>
 The textbook Om Vatten is an introduction to water quality and water technology. 
 It is written in Swedish and used as course literature in some of my courses.  
-<a href="https://omvatten.github.io/textbook">Go to textbook</a>
 
 Example datasets used in the textbook Om Vatten and in Python exercises are available here:
 
