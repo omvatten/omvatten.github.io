@@ -23,23 +23,21 @@ By combining microbial ecology and environmental engineering, I want to improve 
 
 Check out my [scientific publications](https://scholar.google.com/citations?hl=sv&user=BG6O3hYAAAAJ).
 
-Topics of interest include:
-- Community assembly and ecological theory
-- Biodiversity and diversity metrics
+Topics of interest include (but are not limited to):
+- Community assembly, ecological theory, and diversity metrics
 - Virus-host interactions
-- Bioelectrochemical systems
-- Wastewater treatment
-- Anaerobic digestion
+- Bioelectrochemical systems and biocorrosion
+- Wastewater treatment and anaerobic digestion
 - Methane production and oxidation
 - Nutrient removal and recovery
 
 
 # Software
 
-I develop open-source software for microbial ecology, environmental biotechnology, and education.
+I develop open-source software for ecology, environmental biotechnology, and education.
 
 ## [qdiv](https://github.com/omvatten/qdiv)
-A Python package for analyzing microbial community data from amplicon sequencing, metagenomics, and related methods.
+A Python package for analyzing biological community data from amplicon sequencing, metagenomics, and related methods.
 This package is activately maintained and we have implemented several new methods for ecological analyses. See the following papers:
 - [Modin 2026, qdiv: A Python package for microbial ecology analysis using the Hill number framework](https://doi.org/10.21105/joss.10089)
 - [Modin and Persson 2026, A unified framework reveals how evolutionary scale and abundance weighting shape phylogenetic community structure](https://doi.org/10.64898/2026.10.07.757245)
@@ -51,7 +49,7 @@ The website on the streamlit cloud is available [here](https://omvatten-phicsim-
 
 ## [biops](https://github.com/omvatten/biops)
 This is a python package for simulating the performance of biological reactors. For example, activated sludge and biofilm reactors used for wastewater treatment.
-The package was originally developed for teaching purposes, but is no longer actively maintained.
+The package was originally developed for teaching purposes, but is not used or actively maintained right now.
 
 
 # Teaching
@@ -59,5 +57,3 @@ The package was originally developed for teaching purposes, but is no longer act
 [Om Vatten](https://omvatten.github.io/textbook) is a textbook written in Swedish.
 It is an introduction to water quality and water technology. 
 It is used as course literature in some of my courses.  
-
-Example datasets used in the Python exercises of Bilaga D in Om Vatten are available [here](https://omvatten.github.io/datasets).
