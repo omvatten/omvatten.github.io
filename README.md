@@ -1,14 +1,15 @@
 # OM VATTEN
 **Om Vatten** is Swedish and means **About Water**.
 
-Water is the home of the microbial communities I like to study in my research. 
+Water is the home of the microbial communities I study in my research. 
 Water is a major topic in the courses I teach at Chalmers University of Technology. 
-Water is also something I drink occassionally. Hence, *Om Vatten* seemed like a fitting name for this website. 
+Water is also something I drink occasionally. Hence, *Om Vatten* seemed like a fitting name for this website. 
 
 Here I have collected information about my research, software tools, and teaching. 
-The website also contains the Swedish textbook [Om Vatten](https://omvatten.github.io/textbook).
+The website also includes the Swedish textbook [Om Vatten](https://omvatten.github.io/textbook).
 
-**Oskar Modin**
+**Oskar Modin**  
+[Chalmers profile page](https://www.chalmers.se/en/persons/vm3moos/)
 
 <img src="./images/Oskar.gif"/>
 
