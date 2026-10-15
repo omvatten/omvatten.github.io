@@ -6,7 +6,7 @@ Water is a major topic in the courses I teach at Chalmers University of Technolo
 Water is also something I drink occasionally. Hence, *Om Vatten* seemed like a fitting name for this website. 
 
 Here I have collected information about my research, software tools, and teaching. 
-The website also includes the Swedish textbook [Om Vatten](https://omvatten.github.io/textbook).
+The website also includes the Swedish textbook [Om Vatten](https://omvatten.github.io/textbook), which is about water quality and technology.
 
 **Oskar Modin**  
 [Chalmers profile page](https://www.chalmers.se/en/persons/vm3moos/)
@@ -22,8 +22,6 @@ My research focuses on microbial ecology in engineered systems.
 I am interested in how microbial communities assemble, evolve, and function, and how microbial interactions shape the performance of technical systems. 
 By combining microbial ecology and environmental engineering, I want to improve our understanding and management of water systems and the built environment. 
 
-Check out my [scientific publications](https://scholar.google.com/citations?hl=sv&user=BG6O3hYAAAAJ).
-
 Topics of interest include (but are not limited to):
 - Community assembly, ecological theory, and diversity metrics
 - Virus-host interactions
@@ -31,6 +29,8 @@ Topics of interest include (but are not limited to):
 - Wastewater treatment and anaerobic digestion
 - Methane production and oxidation
 - Nutrient removal and recovery
+
+Check out my [scientific publications](https://scholar.google.com/citations?hl=sv&user=BG6O3hYAAAAJ).
 
 
 # Software
@@ -49,7 +49,7 @@ This is a streamlit app for calculating pH and inorganic carbon concentration in
 The website on the streamlit cloud is available [here](https://omvatten-phicsim-phicsim-66n9yv.streamlitapp.com).
 
 ## [biops](https://github.com/omvatten/biops)
-This is a python package for simulating the performance of biological reactors. For example, activated sludge and biofilm reactors used for wastewater treatment.
+This is a Python package for simulating the performance of biological reactors. For example, activated sludge and biofilm reactors used for wastewater treatment.
 The package was originally developed for teaching purposes, but is not used or actively maintained right now.
 
 
